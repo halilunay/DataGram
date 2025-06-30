@@ -6,7 +6,7 @@ An automated installation script for Datagram Node on Ubuntu 24 servers. This sc
 
 ### Step 1: Register for Datagram
 Before using this script, you must register for Datagram:
-1. Visit the registration link: https://dashboard.datagram.network?ref=492622576
+1. Visit the registration link: [Register](https://dashboard.datagram.network?ref=492622576)
 2. Complete the registration process
 3. Log in to your dashboard
 
